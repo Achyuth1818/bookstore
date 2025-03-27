@@ -1,1 +1,1 @@
-This is a Bookstore application created using MERN stack 
+This is a Bookstore application developed using MERN stack 
